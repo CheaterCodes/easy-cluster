@@ -9,4 +9,4 @@ edition = "2018"
 [dependencies]
 png = "0.16.8"
 petgraph = "0.5.1"
-named-binary-tag = "0.6.0"
+minecraft-schematics = { path = "./minecraft-schematics" }
